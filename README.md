@@ -1,38 +1,38 @@
-# 웹카페 실습
+# 웹카페 (UI 제작 실습)
 
-## CSS 학습 주제
+### CSS 학습 주제
 
-- 텍스트 및 글꼴
-- 박스모델과 box-sizing
-- 선택자 (Selector)
-- 캐스케이드 (Cascading)
-- 상속 (Inheritance)
-- 사이즈 단위 (Units)
-- Block VS Inline
-- Float
-- Position
-- Flex
-- Gid
-- 논리 특성
-- 유사 요소(Pseudo-elements), 유사 클래스(Pseudo-classes)
-- 그림자 (Shadow)
-- 함수 (Function)
-- 배경 및 그래디언트
-- 마스크 이미지
-- 애니메이션 (Animation)
-- 화면전환(Transition)
-- 필터와 혼합모드
-- 목록
-- 숨김 콘텐츠 (Screen Reader Only)
-- 포커스 스타일링 (:focus-visible, :focus-widthin)
-- 변수 (Custom Properties)
-- 중첩 (Nesting)
-- 오버플로우
-- 반응형 iframe(aspect-ratio)
-- 스프라이트(Sprite) 배경이미지
-- SVG 스프라이트
-- 다크 모드 (prefer-color-scheme)
-- 동작 줄이기 (prefer-reduced-motion )
+- [x] 텍스트 및 글꼴
+- [x] 박스모델과 box-sizing
+- [x] 선택자 (Selector)
+- [x] 캐스케이드 (Cascading)
+- [x] 상속 (Inheritance)
+- [x] 사이즈 단위 (Units)
+- [x] Block VS Inline
+- [] Float
+- [] Position
+- [] Flex
+- [] Gid
+- [] 논리 특성
+- [x] 유사 요소(Pseudo-elements), 유사 클래스(Pseudo-classes)
+- [] 그림자 (Shadow)
+- [] 함수 (Function)
+- [x] 배경 및 그래디언트
+- [] 마스크 이미지
+- [x] 애니메이션 (Animation)
+- [] 화면전환(Transition)
+- [] 필터와 혼합모드
+- [] 목록
+- [x] 숨김 콘텐츠 (Screen Reader Only)
+- [] 포커스 스타일링 (:focus-visible, :focus-widthin)
+- [x] 변수 (Custom Properties)
+- [x] 중첩 (Nesting)
+- [] 오버플로우
+- [] 반응형 iframe(aspect-ratio)
+- [] 스프라이트(Sprite) 배경이미지
+- [] SVG 스프라이트
+- [] 다크 모드 (prefer-color-scheme)
+- [x] 동작 줄이기 (prefer-reduced-motion )
 
 ### 5월 2일
 
