@@ -1,0 +1,48 @@
+/* 텍스트 링크 모음 */
+
+:root {
+  --base-font-famaily: "SUIT Variable", sans-serif;
+}
+
+.member-service {
+  --font-size: 0.875rem;
+
+  font-family: var(--base-font-family);
+  font-size: 0;
+  list-style-type: none;
+  padding-inline-start: 0;
+  margin: 0;
+  text-align: right;
+
+  li {
+    font-size: var(--font-size);
+    display: inline-block;
+    margin: 0;
+
+    a {
+      display: inherit;
+      padding: 8px 8px 8px 4px;
+      font-variant: small-caps;
+      margin: 0;
+      text-transform: uppercase;
+      color: inherit;
+      text-decoration: none;
+    }
+
+    /* a:link {
+      color: green;
+    }
+    a:visited {
+      color: silver;
+    }
+
+    a:active {
+      color: teal;
+    }
+    a:hover,
+    a:focus {
+      color: yellow;
+    }
+    */
+  }
+}
